@@ -1,4 +1,7 @@
 class Stack:
+"""
+    Last In First Out
+"""
     def __init__(self):
         self.items = []
 
